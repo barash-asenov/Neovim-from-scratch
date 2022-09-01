@@ -11,7 +11,11 @@ require "user.treesitter"
 require "user.comment"
 -- require "user.gitsigns"
 require "user.nvim-tree"
+<<<<<<< HEAD
 -- require "user.bufferline"
+=======
+require "user.bufferline"
+>>>>>>> ade556a ([upd] Updated init.lua and added new plugin)
 -- require "user.lualine"
 -- require "user.toggleterm"
 -- require "user.project"
