@@ -17,7 +17,7 @@ require "user.nvim-tree"
 require "user.bufferline"
 >>>>>>> ade556a ([upd] Updated init.lua and added new plugin)
 -- require "user.lualine"
--- require "user.toggleterm"
+require "user.toggleterm"
 -- require "user.project"
 -- require "user.impatient"
 -- require "user.indentline"
