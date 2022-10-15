@@ -53,6 +53,7 @@ nvim_tree.setup {
       error = "",
     },
   },
+<<<<<<< HEAD
   view = {
     width = 30,
     side = "left",
@@ -64,4 +65,6 @@ nvim_tree.setup {
       },
     },
   },
+=======
+>>>>>>> 97e532f ([add] Added new colorscheme)
 }
